@@ -1,2 +1,2 @@
 # DataMiningTwitter
-Materi Data Mining Twitter oleh Ahmad Asril Rizal, M.Cs.
+Materi Data Mining Twitter oleh Ahmad Ashril Rizal, M.Cs.
